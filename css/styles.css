@@ -1,0 +1,139 @@
+body {
+    font-family: Roboto; 
+}
+
+                         /* header */
+.header-logo{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.header-logo:hover{
+    color: #2196F3;
+}
+.header-logo:focus{
+    color: #2196F3;
+}
+.header-link{
+ font-weight: 500;
+ font-size: 14px; 
+ line-height: 0.87;
+ letter-spacing: 0.02em;
+ color: #212121;
+ }
+.link{
+text-decoration: none;
+}
+.header-mail, .header-tel   
+{
+font-weight: 500;
+font-size: 14px;
+line-height: 0.87;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.header-link:hover
+{
+    color: #2196F3;
+
+}
+.header-link:focus
+{
+    color: #2196F3;  
+}
+.header-mail link
+{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.87;
+    letter-spacing: 0.02em;
+    color: #757575;    
+}
+.header-tel
+ {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.87;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.list{
+    list-style: none ;
+}
+                                 /* section */
+.section-btn
+{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.section-btn:hover
+{
+    background: #2196F3;
+}
+.section-btn:focus
+{
+    background: #2196F3; 
+}
+                    /*section-one  */
+.section-one-link
+{
+font-weight: 700;
+font-size: 18px;
+line-height: 2.00;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.section-one-text
+{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.88;
+letter-spacing: 0.03em;
+color: #757575;
+}
+                        /* footer */
+.footer-link
+{
+ font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+.footer-link:hover
+{
+    color: #2196F3;
+}
+.footer-link:focus
+    {
+        color: #2196F3; 
+    }
+
+.footer
+{
+background-color: darkolivegreen;
+}
+.footer-logo{
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.footer-logo:hover{
+    color: #2196F3;
+}
+.footer-logo:focus{
+    color: #2196F3;
+}
